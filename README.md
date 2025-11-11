@@ -11,14 +11,12 @@ A ideia central:
 
 ## 📂 Principais Tecnologias
 
-- Java (versão utilizada no projeto: conforme `pom.xml`)
-- Spring Boot (para construção da API REST)
-- JPA / Hibernate (para persistência)
-- MySQL (ou outro banco relacional configurado)
-- Docker / Docker Compose (facilita levantar ambiente)
-- Maven (gerenciamento de dependências / build)
-- (Se aplicável) FeignClient ou outra solução para consumo de APIs externas
-- (Se aplicável) Bibliotecas de testes (ex: JUnit, Mockito)
+- Java 
+- Spring Boot 
+- JPA / Hibernate 
+- MySQL 
+- Docker / Docker Compose 
+- Maven 
 
 ## 🔧 Funcionalidades
 
@@ -27,7 +25,7 @@ A ideia central:
 - CRUD de Ativos/ações: cadastro de ativos que o usuário pode guardar ou acompanhar.
 - Associação de ativos a contas de usuários: qual usuário/com conta possui qual ativo, quanto possui, etc.
 - Integração com API externa de mercado para obter informações de preços, variações, etc.
-- Configuração via Docker Compose (exemplo: banco de dados + aplicação) para facilitar o ambiente de desenvolvimento.
+- Configuração via Docker Compose
 
 ## 🚀 Como executar localmente
 
