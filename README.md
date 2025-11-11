@@ -1,10 +1,3 @@
-# Agregador‑de‑Investimentos
-
-Projeto: **Agregador‑de‑Investimentos**  
-Autor: [Seu Nome ou Usuário]  
-Data de Início: (inserir)  
-Versão: 0.x (protótipo)
-
 ## 🧾 Visão Geral
 
 O Agregador‑de‑Investimentos é uma API back‑end desenvolvida em Java (com Spring Boot) cujo objetivo é consolidar e gerir dados de investimentos de usuários, associando contas, ações/ativos e informações externas de mercado para apoiar decisões de investimento.
