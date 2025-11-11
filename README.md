@@ -38,9 +38,9 @@ A ideia central:
    (ou seu fork)
 2. Acesse a pasta do projeto:
    ```bash
-   cd Agregador‑de‑Investimentos
+   cd agregadorinvestimentos
    ```
-3. Verifique o arquivo `docker‑compose.yml` — ele possui configurações para levantar o banco de dados (MySQL) e possivelmente outros serviços.
+3. Verifique o arquivo `docker‑compose.yml` — ele possui configurações para levantar o banco de dados (MySQL).
    ```bash
    docker‑compose up ‑d
    ```
